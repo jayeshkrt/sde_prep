@@ -1,0 +1,8 @@
+Use ct} or ct[curly brace] to change upto the curly brace
+Use * to go to the another instance of the same word, just put your cursor on the start of the word and it will take you to the next one
+Use f ot t to go the character in the line.
+If you want to go to the next instance of the f or c's result, press ;
+A will take you to the end of the line and in insert mode
+I will take you to the beginning of the line in insert mode
+Use ~ to toggle the case of letters
+
