@@ -7,3 +7,6 @@ Minimum window substring [https://leetcode.com/problems/minimum-window-substring
 
 17 July 2024
 Trapping rain water [https://leetcode.com/problems/trapping-rain-water/]
+
+19 July 2024
+Largest rectangle histogram [https://leetcode.com/problems/largest-rectangle-in-histogram/]
